@@ -1,0 +1,2 @@
+language="python"
+run="./repl.deploy --standalone python main.py"
